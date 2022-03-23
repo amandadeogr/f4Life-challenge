@@ -1,0 +1,10 @@
+.moradias__imagens {
+    width: 100%;
+    padding: 2rem;
+}
+
+@media (max-width: 800px) {
+    .moradias__imagens {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,5 @@
+.linha-horizontal {
+    width: 70%;
+    margin:0 auto 5rem;
+    border-top: 3px double var(--azul-textos);
+}

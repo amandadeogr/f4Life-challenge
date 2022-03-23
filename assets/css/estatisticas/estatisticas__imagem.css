@@ -1,0 +1,9 @@
+.estatisticas__imagem {
+    height: 80vh;
+}
+
+@media (max-width: 1000px) {
+    .estatisticas__imagem {
+        display: none;
+    }
+}

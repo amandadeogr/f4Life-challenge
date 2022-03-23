@@ -1,0 +1,11 @@
+.moradias__imagem-ape {
+    width: 100%;
+    height: 20%;
+    border-radius: 5px;
+}
+
+.moradias__imagem-ape:hover {
+    box-shadow: 1px 1px 15px;
+    transition: .7s;
+    cursor: pointer;
+}

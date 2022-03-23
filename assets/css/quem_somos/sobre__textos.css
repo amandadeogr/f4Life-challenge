@@ -1,0 +1,13 @@
+.sobre__textos {
+    width: 40%;
+    text-align: center;
+    margin-right: 5rem;
+    color: var(--azul-textos);
+}
+
+@media (max-width: 900px) {
+    .sobre__textos {
+        margin: auto;
+        width: 80%;
+    }
+}

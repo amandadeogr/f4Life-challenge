@@ -1,0 +1,11 @@
+    .estatisticas {
+        width: 80%;
+        margin: 5rem auto;
+        align-items: center;
+    }
+
+    @media (max-width: 500px) {
+        .estatisticas {
+            width: 100%;
+        }
+    }

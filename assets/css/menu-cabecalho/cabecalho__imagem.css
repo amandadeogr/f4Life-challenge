@@ -1,0 +1,10 @@
+
+.cabecalho__imagem {
+    width: 15em;
+}
+
+@media (max-width: 500px) {
+    .cabecalho__imagem {
+        width: 10rem;
+    } 
+}

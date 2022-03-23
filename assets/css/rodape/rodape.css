@@ -1,0 +1,6 @@
+.rodape {
+    background-color: var(--azul-escuro);
+    padding: 2rem;
+    border-top: 1px solid #ccc;
+    justify-content: space-around;
+}

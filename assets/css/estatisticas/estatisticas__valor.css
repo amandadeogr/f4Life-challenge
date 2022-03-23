@@ -1,0 +1,6 @@
+.estatisticas__valor {
+    font-size: 3rem;
+    color: var(--azul-claro);
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+}

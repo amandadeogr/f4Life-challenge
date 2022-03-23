@@ -1,0 +1,9 @@
+.titulos {
+    font-size: 3rem;
+}
+
+@media (max-width: 900px) {
+    .titulos {
+        font-size: 2rem;
+    }
+}

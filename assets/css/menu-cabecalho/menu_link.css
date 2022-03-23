@@ -1,0 +1,8 @@
+.menu__link {
+    color: white;
+}
+
+.menu__link:hover {
+    color: var(--azul-claro);
+    transition: .5s;
+}

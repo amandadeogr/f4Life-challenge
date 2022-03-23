@@ -1,0 +1,9 @@
+.menu__item {
+    margin-right: 1.5rem;
+}
+
+@media (max-width: 500px) {
+    .menu__item {
+        margin-right: .7rem;
+    } 
+}

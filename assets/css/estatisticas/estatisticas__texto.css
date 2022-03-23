@@ -1,0 +1,13 @@
+.estatisticas__texto {
+    color: var(--azul-textos);
+    width: 100%;
+    margin-bottom: 2.5rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+@media (max-width: 500px) {
+    .estatisticas__texto {
+        margin-bottom: 1rem;
+    }
+}

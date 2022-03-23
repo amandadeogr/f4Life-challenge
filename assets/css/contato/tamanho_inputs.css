@@ -1,0 +1,10 @@
+.contato__email, .contato__mensagem, .contato__nome {
+    padding: 1rem 1.5rem;
+    width: 60vw;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+
+.contato__mensagem {
+    margin-bottom: 0;
+}

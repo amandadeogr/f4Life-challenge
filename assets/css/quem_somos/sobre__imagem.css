@@ -1,0 +1,12 @@
+.sobre__imagem {
+    width: 40vw;
+    border-radius: 5px;
+    margin-left: 5rem;
+    opacity: .8;
+}
+
+@media (max-width: 900px) {
+    .sobre__imagem {
+        display: none;
+    }
+}

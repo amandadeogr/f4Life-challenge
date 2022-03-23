@@ -1,0 +1,6 @@
+.rodape__icon {
+    margin-right: 1.5rem;
+}
+.rodape__icon:hover {
+    box-shadow: 5px 5px 10px;
+}

@@ -1,0 +1,10 @@
+.contato__titulo {
+    color: white;
+    margin-bottom: 1.5rem;
+}
+
+@media (max-width: 900px) {
+    .contato__titulo {
+        width: max-content;
+    }
+}

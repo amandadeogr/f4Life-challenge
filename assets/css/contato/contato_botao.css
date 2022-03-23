@@ -1,0 +1,18 @@
+.contato__botao {
+    padding: .8rem 3rem;
+    cursor: pointer;
+    color: var(--azul-escuro);
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+
+.contato > .flex {
+    align-items: flex-end;
+}
+
+
+.contato__botao:hover {
+    background-color: var(--azul-claro);
+    transition: .5s;
+}
