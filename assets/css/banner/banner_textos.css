@@ -1,13 +1,7 @@
 .banner__textos {
-    position: absolute;
-    top: 4.5rem;
-    left: 5rem;
-    background-color: var(--azul-escuro-transparent);
     padding: 3rem;
     border-radius: 10px;
-    color: white;
-    width: 35vw;
-    height: auto;
+    color: black;
     text-align: center;
 }
 
